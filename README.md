@@ -1,5 +1,5 @@
 # WEB103 Prework - *👉🏿 Name of App Here*
-https://imgur.com/Y4SOvDS
+
 Submitted by: **👉🏿 Subash Neupane**
 
 About this web app: **👉🏿 Web App creator**
@@ -35,6 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+ Video Link
+ https://imgur.com/Y4SOvDS
 👉🏿<img src='https://imgur.com/Y4SOvDS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
