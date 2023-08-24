@@ -1,0 +1,57 @@
+.edit-container{
+
+  background-size: cover;
+  background-position: center;
+  color:#fff;
+  width: 100%;
+  background-image: url("https://images.unsplash.com/photo-1581472723648-909f4851d4ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGNvZGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60");
+}
+
+
+
+.edit {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+   
+    border-radius: 5px;
+    font-family: "poppins",sans-serif;
+  }
+  
+  .edit h2 {
+    margin-bottom: 20px;
+  }
+  
+  .edit form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .edit form input,
+  .edit form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: "poppins",sans-serif;
+  }
+
+ .edit form textarea{
+  height: 400px;
+  resize: none;
+ }
+  
+  .edit form button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .edit form button:hover {
+    background-color: #0056b3;
+  }
+  
